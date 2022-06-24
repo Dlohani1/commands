@@ -1,0 +1,26 @@
+Basic Linux Commands
+
+Linux - is an operating System
+
+Terminal - Command Prompt
+
+1) pwd - print working directory
+
+2) whoami - will print the current loggedin user's username
+
+3) cd -  cd ..   cd .     cd dir    - change directory (folder)
+
+4) ls  - list all the files and directories - windows dir command 
+
+5) mkdir - make directory 
+
+6) touch - 
+
+7) cp - 
+
+8) mv -
+
+9) rmdir -
+
+10) rm
+ 
