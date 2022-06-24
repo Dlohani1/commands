@@ -14,7 +14,7 @@ Terminal - Command Prompt
 
 5) mkdir - make directory 
 
-6) touch - 
+6) touch - create a new file
 
 7) cp - 
 
