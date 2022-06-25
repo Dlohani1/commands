@@ -32,7 +32,22 @@ Command       Syntax               Usage
 
 14) cat     cat filename          show the content of the specified file on the console  
      
+15) cat     cat > filename        This will open the file in writing mode and it will
+				  overwrite the existing content
 
+16) cat     cat >> filename       This will append the new content with the existing old content
+
+
+17) nano    nano filename         This opens the file for writing 
+				  ctrl + o - save out the file and prompt for the filename
+			          press enter 
+                                  ctrl + x   to exit from nano editor
+
+18) vi      vi filename           This opens the file for writing
+				  press 'i' for insert mode
+                                  write the contents
+                                  press esc to come out of insert mode
+                                  press :wq to save and quit
 
 
 
