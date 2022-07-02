@@ -1,0 +1,10 @@
+R remove D remove
+
+A added M modified
+
+Write a shell script to read the given log file
+then for the status R & D - create a dir removed
+and copy the files from the path specified
+
+for the status A & M - create a dir 'added' and 
+copy the files from the path specified

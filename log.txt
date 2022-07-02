@@ -1,0 +1,4 @@
+R src/classes/file1.class 
+A src/objects/file2.obj
+M src/classes/file3.class
+D src/objects/file4.obj
